@@ -1,0 +1,17 @@
+{
+  "name": "export-classes",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "author": {
+    "name": "Edward Ruchevits",
+    "email": "edward@tallysticks.io"
+  },
+  "contributors": [
+    {
+      "name": "Edward Ruchevits",
+      "email": "edward@tallysticks.io"
+    }
+  ],
+  "main": "src"
+}
